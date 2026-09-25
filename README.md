@@ -1,5 +1,3 @@
-¡Claro que sí, Iván! Un buen README.md es lo que diferencia un repositorio del montón de uno que parece hecho por un profesional. Basado en las capturas de pantalla de tu proceso de limpieza, aquí tienes la estructura lista para copiar y pegar.
-
 <img width="1060" height="784" alt="png_datacleaning(5)" src="https://github.com/user-attachments/assets/6bc086ae-88b8-4c10-92cf-1bcac93b6a77" />
 <img width="1105" height="635" alt="png_datacleaning(6)" src="https://github.com/user-attachments/assets/b7ca294d-4f73-4d9a-aa82-341b39b5a4fd" />
 
